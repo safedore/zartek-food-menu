@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582189956187",
+    "firebase_url": "https://zartek-food-app-default-rtdb.firebaseio.com",
+    "project_id": "zartek-food-app",
+    "storage_bucket": "zartek-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582189956187:android:67dd042a618ec55f4d937e",
+        "android_client_info": {
+          "package_name": "com.example.zartek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582189956187-fsch80llif5c1orl7tha25t5s6hq1g6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zartek",
+            "certificate_hash": "ea93e98d6af4e759ba45d7760ffe336ed74ee637"
+          }
+        },
+        {
+          "client_id": "582189956187-lldbt1ufnor1qh4pak7nkslg267kk4dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuhYdA3o06TtnpfBGzU1_8xuoMzL-PvjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582189956187-lldbt1ufnor1qh4pak7nkslg267kk4dj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582189956187-kg9cvovls4ph1brqc76m24kfgklgitic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zartek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

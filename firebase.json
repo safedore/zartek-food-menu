@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "zartek-food-app",
+          "appId": "1:582189956187:android:67dd042a618ec55f4d937e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "zartek-food-app",
+          "configurations": {
+            "android": "1:582189956187:android:67dd042a618ec55f4d937e",
+            "ios": "1:582189956187:ios:cfc756d09c3aabe64d937e",
+            "macos": "1:582189956187:ios:cfc756d09c3aabe64d937e",
+            "web": "1:582189956187:web:310bcc4db70490c94d937e",
+            "windows": "1:582189956187:web:14bfe617eb65da654d937e"
+          }
+        }
+      }
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
